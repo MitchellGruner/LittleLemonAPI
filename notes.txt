@@ -1,0 +1,85 @@
+USERS
+
+SuperUser:
+    id: 1
+        username: admin
+        password: littlelemon
+        authtoken: 72b2668b95d0c42f2012dd69203c82bd7f8cf049
+
+Manager:
+    id: 2
+        username: Mitchell
+        password: littlelemon
+        authtoken: 3d2434260879422e9d39d261ccddf30d9f37c2d7
+
+    id: 3
+        username: Avery
+        password: littlelemon
+        authtoken: fe69c05e0f947b5402d4e93bc79d5fdf7e687770
+    
+    id: 4
+        username: Larry
+        password: littlelemon
+        authtoken: ac5a73947d14573cf5ef52a0707d462a710ebb6a
+
+    id: 5
+        username: Sharon
+        password: littlelemon
+        authtoken: 7413b6e0b54033532fd1a4d33bfd200b1d928c47
+
+    id: 6
+        username: Madeleine
+        password: littlelemon
+        authtoken: c8c65461ef5bf9ce3ff63bc43edff46101e0e1c7
+
+    id: 9
+        username: Kerri
+        password: littlelemon
+        authtoken: 84651a4c667a7dee6344fbe195101dcf1aa3a807
+
+    id: 10
+        username: Bruce
+        password: littlelemon
+        authtoken: 82852ac87c0062ee3facc0ef37bb2529ecd54b1c
+
+    id: 11
+        username: Caleb
+        password: littlelemon
+        authtoken: 1168830d26747fa07f304b20eab4d5a65d5a78c6
+
+    id: 12
+        username: Buck
+        password: littlelemon
+        authtoken: 311902e9d488a77ab1397e26f3a5188dd4230294
+
+    id: 13
+        username: Sam
+        password: littlelemon
+        authtoken: 1e1c683860a1edc4494c0a35504213129852a606
+
+Delivery Crew:
+    id: 7
+        username: Brycen
+        password: littlelemon
+        authtoken: b675d48f5408056698c5154c466d95dcbb0c3252
+
+    id: 8
+        username: Jim
+        password: littlelemon
+        authtoken: 820eda060c0d2503375b21b64c9d1c7405049963
+
+    id: 14
+        username: Simeon
+        password: littlelemon
+        authtoken: cdb4644e15e51e4e72314b4cc5f5ae609abde937
+
+    id: 16
+        username: Ishmael
+        password: littlelemon
+        authtoken: dd1d74fe4c1dd8c9270db57030fc3a29dda727ee
+
+Customers:
+    id: 15
+        username: Jordan
+        password: littlelemon
+        authtoken: 3c62fe0a0a4f28b97a4b33340088ea5bc36a81c1
